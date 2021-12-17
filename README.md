@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=KU6bvciWgRE&list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FD
 
 ------------book---------
 https://publications.lib.chalmers.se/records/fulltext/256254/256254.pdf
+https://evilmartians.com/chronicles/anonymous-web-authentication-with-stellar-blockchain
